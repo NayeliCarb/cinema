@@ -1,0 +1,108 @@
+body{
+	font-family: sans-serif;
+}
+div{
+	color: #A4A4A4;
+	display: inline-block;
+	position: absolute;
+	margin-left: 170px;
+	margin-top: 21px;
+}
+
+#titulo{
+	display: inline-block;
+
+}
+input[type=search]{
+	appearance:none;
+	-webkit-appearance:none;
+	-moz-appearance:none;
+	-o-appearance: none;
+	height: 50px;
+    width: 200px;
+    border:1px solid #A4A4A4;
+    color: red;
+    margin-left: 500px;
+    margin-top: -60px;
+    position: absolute;
+    font-size: 20px;
+    padding-left: 10px;
+    background: #ededed url('https://pixabay.com/static/uploads/photo/2014/04/03/00/31/magnifying-glass-308581_960_720.png') no-repeat 170px ;
+    background-size: 10%;
+}
+.peli{
+	margin-left: 900px;
+	margin-top:-720px;
+}
+.big{
+	font-size: 50px;
+	color: white;
+	font-family: sans-serif;
+}
+hr{
+	margin-top: -30px;
+	margin-right: -20%;
+}
+#icono{
+	width: 110px;
+	height: 110px;
+	margin-left: 400px;
+	margin-top: -400px;
+	position: absolute;
+}
+#cuadroVerde{
+	color: #04B45F;
+	border:2px solid #04B45F;
+	border-radius: 5px;
+	padding-left: 5px;
+	padding-bottom: 5px;
+	padding-right: 5px;
+	font-size: 12px;
+	width: 50px;
+	height: 30px;
+	font-family: sans-serif;
+	margin-left: -10px;
+	text-align: center;
+	margin-top: 5px;
+	position: absolute;
+}
+#autor{
+	margin-left: 60px;
+	position: absolute;
+	font-family: sans-serif;
+	font-size: 12px;
+	padding-top: 5px;
+}
+.detalles{
+	position: relative;
+	margin-top: 60px;
+	font-size: 12px;
+}
+.detalles1{
+	font-size: 12px;
+}
+.detalles2{
+	font-size: 12px;
+}
+#detalles{
+	position: absolute;
+	font-size: 12px;
+	margin-left: 100px;
+	margin-top: -25px;
+}
+#detalles1{
+	position: absolute;
+	font-size: 12px;
+	margin-left: 100px;
+	margin-top: -27px;
+}
+#detalles2{
+	position: absolute;
+	font-size: 12px;
+	margin-left: 100px;
+	margin-top: -27px;
+}
+.resena{
+	font-size: 12px;
+	padding-right: 100px;
+}
